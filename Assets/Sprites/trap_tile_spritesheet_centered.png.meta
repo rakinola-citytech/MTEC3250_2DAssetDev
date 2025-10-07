@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 255e7bc6ce2234543b1b89f83815a8df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3219327856568009862
+    second: trap_tile_spritesheet (1)_0
+  - first:
+      213: 2341658272911184155
+    second: trap_tile_spritesheet (1)_1
+  - first:
+      213: -3422820060178893259
+    second: trap_tile_spritesheet (1)_2
+  - first:
+      213: 4601137244385656366
+    second: trap_tile_spritesheet (1)_3
+  - first:
+      213: -6640848413931189604
+    second: trap_tile_spritesheet (1)_4
+  - first:
+      213: -1682958755534861038
+    second: trap_tile_spritesheet (1)_5
+  - first:
+      213: -2165317279849930443
+    second: trap_tile_spritesheet (1)_6
+  - first:
+      213: 5755781490071663231
+    second: trap_tile_spritesheet (1)_7
+  - first:
+      213: -7240077077800947877
+    second: trap_tile_spritesheet (1)_8
+  - first:
+      213: -2482725308654574520
+    second: trap_tile_spritesheet (1)_9
+  - first:
+      213: 5379753151015416071
+    second: trap_tile_spritesheet (1)_10
+  - first:
+      213: -2087462784830832972
+    second: trap_tile_spritesheet (1)_11
+  - first:
+      213: 4374436296287581970
+    second: trap_tile_spritesheet (1)_12
+  - first:
+      213: -3156509054384943259
+    second: trap_tile_spritesheet (1)_13
+  - first:
+      213: -7150500742473925189
+    second: trap_tile_spritesheet (1)_14
+  - first:
+      213: 4331986484622536964
+    second: trap_tile_spritesheet (1)_15
+  - first:
+      213: 3578248030622167391
+    second: trap_tile_spritesheet (1)_16
+  - first:
+      213: -4869503705159197102
+    second: trap_tile_spritesheet (1)_17
+  - first:
+      213: -6630508199213982538
+    second: trap_tile_spritesheet (1)_18
+  - first:
+      213: 4258879146902760100
+    second: trap_tile_spritesheet (1)_19
+  - first:
+      213: 4881459399595758268
+    second: trap_tile_spritesheet (1)_20
+  - first:
+      213: 892675963588401002
+    second: trap_tile_spritesheet (1)_21
+  - first:
+      213: -5301281277331787180
+    second: trap_tile_spritesheet (1)_22
+  - first:
+      213: 6659110216841892069
+    second: trap_tile_spritesheet (1)_23
+  - first:
+      213: -9079074374389639839
+    second: trap_tile_spritesheet (1)_24
+  - first:
+      213: 5210307150463033339
+    second: trap_tile_spritesheet (1)_25
+  - first:
+      213: -8880208855902237869
+    second: trap_tile_spritesheet (1)_26
+  - first:
+      213: 2451078629707060445
+    second: trap_tile_spritesheet (1)_27
+  - first:
+      213: -6952395607817355888
+    second: trap_tile_spritesheet (1)_28
+  - first:
+      213: 5229278622197147880
+    second: trap_tile_spritesheet (1)_29
+  - first:
+      213: -7867378860610041573
+    second: trap_tile_spritesheet (1)_30
+  - first:
+      213: 3962982525239706171
+    second: trap_tile_spritesheet (1)_31
+  - first:
+      213: 6310478512514979270
+    second: trap_tile_spritesheet (1)_32
+  - first:
+      213: 5096894778847253959
+    second: trap_tile_spritesheet (1)_33
+  - first:
+      213: 3426987145308133498
+    second: trap_tile_spritesheet (1)_34
+  - first:
+      213: 546637214598909307
+    second: trap_tile_spritesheet (1)_35
+  - first:
+      213: -6904628676646511351
+    second: trap_tile_spritesheet (1)_36
+  - first:
+      213: -1222774102683194278
+    second: trap_tile_spritesheet (1)_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trap_tile_spritesheet_centered_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999994}
+      border: {x: 0, y: 18, z: 0, w: 17}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fb4d9dee3384486becec82f2c7c296
+      internalID: 1178606502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_tile_spritesheet_centered_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 18, z: 0, w: 17}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496401d9ddb0497f824100002b1b4af
+      internalID: 970519093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_tile_spritesheet_centered_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 18, z: 0, w: 17}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92867d754ce3f42f6b94d845962d6a43
+      internalID: 1735861190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_tile_spritesheet_centered_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 18, z: 0, w: 17}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043a23bb9068472bba8a65d8f090303
+      internalID: 1581699460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_tile_spritesheet_centered_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74f32926538463d8c6a6743a81c56f
+      internalID: 791100762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5678a7b8bf2d745a5bf8af616d2cb7c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trap_tile_spritesheet_centered_0: 1178606502
+      trap_tile_spritesheet_centered_1: 970519093
+      trap_tile_spritesheet_centered_2: 1735861190
+      trap_tile_spritesheet_centered_3: 1581699460
+      trap_tile_spritesheet_centered_4: 791100762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

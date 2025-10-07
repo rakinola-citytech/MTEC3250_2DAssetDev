@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 70365c529d42243a0bddd936d57f6346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6727850111519030577
+    second: citizenThree_0
+  - first:
+      213: -6398940671746395391
+    second: citizenThree_1
+  - first:
+      213: 943948344528911359
+    second: citizenThree_2
+  - first:
+      213: -8483750683303955540
+    second: citizenThree_3
+  - first:
+      213: -2044253480426294089
+    second: citizenThree_4
+  - first:
+      213: -4945521170236591673
+    second: citizenThree_5
+  - first:
+      213: 2051910638961399857
+    second: citizenThree_6
+  - first:
+      213: 2716969139132503933
+    second: citizenThree_7
+  - first:
+      213: -2927851443730429250
+    second: citizenThree_8
+  - first:
+      213: -4498978811264619999
+    second: citizenThree_9
+  - first:
+      213: -6887822134536217844
+    second: citizenThree_10
+  - first:
+      213: -6799237188727658988
+    second: citizenThree_11
+  - first:
+      213: -7378826669321269118
+    second: citizenThree_12
+  - first:
+      213: 566505475479046442
+    second: citizenThree_13
+  - first:
+      213: 4863468138560768277
+    second: citizenThree_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: citizenThree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8967a4a925b349fe85f342ee18c5583
+      internalID: 1229543080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 692
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def6ad934507049c7a209956d9f82cf5
+      internalID: -11118821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 692
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6f784a343a4d91a245b346e7b0481
+      internalID: -312123928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 692
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ce0d6d1b5554c148abb5694cf42c77
+      internalID: 960102311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 692
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdacf8fedc7a04f768256a18673bc99a
+      internalID: -2075682102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 692
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26367df4a72418abd4c8834987fd25
+      internalID: -1646510402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f97886c8a04e0898a4d65ef13769c
+      internalID: 316085685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 592
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c64cf1377843a5b636e833c724f24
+      internalID: 521966452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 592
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eaef2329b7a432e97da28fef2929e9
+      internalID: -1448743279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 592
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516ddbf30bb14f4b98c07ca0100c1c3
+      internalID: -300145622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 592
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ebb8e30df4746e99acfd7d6ca6d00c
+      internalID: 1849272160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 592
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72bb578284f24cdd803d7ed00b0e57a
+      internalID: 731429380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenThree_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 592
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a91b1f4bdf049edb3912df2b3a5b59
+      internalID: 1769515789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9dd20d54a1bff483bb875893af4c4929
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      citizenThree_0: 1229543080
+      citizenThree_1: -11118821
+      citizenThree_10: 1849272160
+      citizenThree_11: 731429380
+      citizenThree_12: 1769515789
+      citizenThree_2: -312123928
+      citizenThree_3: 960102311
+      citizenThree_4: -2075682102
+      citizenThree_5: -1646510402
+      citizenThree_6: 316085685
+      citizenThree_7: 521966452
+      citizenThree_8: -1448743279
+      citizenThree_9: -300145622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 0709fea64811b4981bc37a057bf5c08b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8925898437808041093
+    second: citizenOne_0
+  - first:
+      213: 1292839004180566054
+    second: citizenOne_1
+  - first:
+      213: -1532877632963586522
+    second: citizenOne_2
+  - first:
+      213: -3992735888663170860
+    second: citizenOne_3
+  - first:
+      213: -8973426296419884487
+    second: citizenOne_4
+  - first:
+      213: -4790009249715417767
+    second: citizenOne_5
+  - first:
+      213: 390121079895797247
+    second: citizenOne_6
+  - first:
+      213: -2447533849144098719
+    second: citizenOne_7
+  - first:
+      213: 6191968591803836771
+    second: citizenOne_8
+  - first:
+      213: 6929576666422653529
+    second: citizenOne_9
+  - first:
+      213: -568576972719267658
+    second: citizenOne_10
+  - first:
+      213: 1913580315586334539
+    second: citizenOne_11
+  - first:
+      213: -2258634045314940039
+    second: citizenOne_12
+  - first:
+      213: 8638425945490379796
+    second: citizenOne_13
+  - first:
+      213: -7842155673096925387
+    second: citizenOne_14
+  - first:
+      213: -6898894551733073904
+    second: citizenOne_15
+  - first:
+      213: 8433694525795318408
+    second: citizenOne_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: citizenOne_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff665399eb24f60bc6feafd825ceb5
+      internalID: -160017243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 692
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c315db05b7fe4f2aac5a600249d31f8
+      internalID: -615000608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 692
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac591d3a0f0bc486395f6789720cf388
+      internalID: 1332528226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 692
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b58a484c7a3433c86bd1b463845c5b
+      internalID: 1385319401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 692
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d5256f94b04a2caca814cf096d038
+      internalID: -1803711818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 692
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fada863d3462f422baf55a45e2ad82b0
+      internalID: 353297185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf7dd171e1f41e99fc8606de8fbdce
+      internalID: -1054600686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 592
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230052f80728d4f3cbe86f3c0370a7de
+      internalID: 411990662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 592
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5fd1c6d40354feaaf78caa17ba416e
+      internalID: -1450350023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 592
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360283e1faff4806898fdfe8a4b2949
+      internalID: -520969861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 592
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a93467966a4c98941f5264488902a
+      internalID: -425558133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 592
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b94e2aa6ecd491f962dccc56fc0e7d
+      internalID: 385038307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citizenOne_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 592
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5889f532198141f3bba642c36712a37
+      internalID: -263423985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 56ecc9fb893514441bd1cfa779e5a589
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      citizenOne_0: -160017243
+      citizenOne_1: -615000608
+      citizenOne_10: -425558133
+      citizenOne_11: 385038307
+      citizenOne_12: -263423985
+      citizenOne_2: 1332528226
+      citizenOne_3: 1385319401
+      citizenOne_4: -1803711818
+      citizenOne_5: 353297185
+      citizenOne_6: -1054600686
+      citizenOne_7: 411990662
+      citizenOne_8: -1450350023
+      citizenOne_9: -520969861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
