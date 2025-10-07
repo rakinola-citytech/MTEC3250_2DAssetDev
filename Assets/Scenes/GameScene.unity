@@ -377,13 +377,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 227178510}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.14095339, w: 0.9900163}
-  m_LocalPosition: {x: -0.288, y: -0.025, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0.055496953, w: 0.99845886}
+  m_LocalPosition: {x: -0.2880001, y: -0.025000095, z: 0}
   m_LocalScale: {x: 0.17090821, y: 0.3875, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 650287099}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 703.794}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 713.637}
 --- !u!199 &227178512
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -715,8 +715,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.5
-      minScalar: 0.1
+      scalar: 0.7
+      minScalar: 0.05
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -1096,7 +1096,7 @@ ParticleSystem:
     angle: 9.6815
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
-    radiusThickness: 0.26295882
+    radiusThickness: 0
     donutRadius: 0.2
     m_Position: {x: 0.0014022461, y: -0.00000021354396, z: 0}
     m_Rotation: {x: -0, y: 0, z: 150}
@@ -1179,7 +1179,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 0.5160494
+      value: 2.8283496
       mode: 0
       spread: 0
       speed:
@@ -1237,7 +1237,7 @@ ParticleSystem:
           m_RotationOrder: 4
     arc:
       value: 90
-      mode: 3
+      mode: 0
       spread: 0
       speed:
         serializedVersion: 2
